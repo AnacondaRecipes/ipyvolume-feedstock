@@ -33,6 +33,7 @@ requirements:
     - pillow >5.2
     - scipy
     - numpy
+    - matplotlib
     - scikit-image >=0.13
     - requests
     - ipywebrtc >=0.4
