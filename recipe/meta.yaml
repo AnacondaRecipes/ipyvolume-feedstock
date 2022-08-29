@@ -45,6 +45,7 @@ test:
   requires:
     - pip
     - jupyterlab >=3,<4.0
+    - matplotlib
   commands:
     - pip check
     - jupyter labextension list
